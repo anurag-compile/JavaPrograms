@@ -1,4 +1,4 @@
-package com.company;
+package day3;
 
 public class forEach {
     public static void main(String[] args) {

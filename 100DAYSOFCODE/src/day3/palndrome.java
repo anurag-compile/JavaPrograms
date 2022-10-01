@@ -1,4 +1,4 @@
-package com.company;
+package day3;
 import java.util.*;
 
 public class palndrome {
