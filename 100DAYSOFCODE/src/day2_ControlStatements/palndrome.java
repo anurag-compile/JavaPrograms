@@ -1,4 +1,4 @@
-package day4_loops;
+package day2_ControlStatements;
 import java.util.*;
 
 public class palndrome {
