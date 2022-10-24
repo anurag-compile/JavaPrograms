@@ -1,4 +1,4 @@
-package day_10_array;
+package day10_array;
 
 public class ElementFrequency {
     public static void main(String[] args) {
