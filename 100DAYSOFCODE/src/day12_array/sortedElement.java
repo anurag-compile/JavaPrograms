@@ -10,6 +10,8 @@ public class sortedElement {
         int [] temp = new int[arr.length];
         int count = 0;
 
+
+
         //traverse original array
         for (int i = 1; i < arr.length; i++){
 

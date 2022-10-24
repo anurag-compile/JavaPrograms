@@ -9,6 +9,8 @@ public class unsortElement {
         int[] temp = new int[arr.length];
         int count = 0;
 
+
+
         //traverse original array
         for (int i = 0; i<arr.length; i++){
             int element = arr[i];
