@@ -5,7 +5,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-public class GFG {
+public class RupeeToDoller {
 
     // Function to convert from rupee
     // to the dollar and vice-versa

@@ -57,6 +57,7 @@ class MyFrame
 
     // constructor, to initialize the components
     // with default values.
+
     public MyFrame()
     {
         setTitle("Account Opening Form");
