@@ -1,4 +1,4 @@
-package day51_bubbleSort;
+package day051_bubbleSort;
 
 public class Bubble {
     static void print (int a[]) //function to print array elements
