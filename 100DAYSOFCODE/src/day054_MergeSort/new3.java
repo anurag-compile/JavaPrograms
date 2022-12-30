@@ -1,4 +1,4 @@
-package day54_MergeSort;
+package day054_MergeSort;
 // Merge sort in Java
 
 class MergeSort {
