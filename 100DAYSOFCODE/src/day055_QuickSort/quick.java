@@ -3,7 +3,6 @@ package day055_QuickSort;
 // Quick sort in Java
 
 import java.util.Arrays;
-
 class Quicksort {
 
     // method to find the partition position
