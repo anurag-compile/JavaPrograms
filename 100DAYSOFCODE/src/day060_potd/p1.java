@@ -1,4 +1,4 @@
-package day60_potd;
+package day060_potd;
 import java.util.Arrays;
 class Solution {
     public long minIncrements(int[] arr, int N) {
