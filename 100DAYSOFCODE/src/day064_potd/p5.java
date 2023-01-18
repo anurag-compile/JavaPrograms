@@ -15,6 +15,7 @@ class Solution {
                 minus++;
             }
             mp[cur]++;
+
         }
         for(int i = 0; i < n; i++){
             ans += (n - i - minus) * 1l;
